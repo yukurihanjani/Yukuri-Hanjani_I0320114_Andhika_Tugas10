@@ -1,0 +1,10 @@
+Nama: Yuku
+Umur: 19
+Alamat: Jogja
+NIM: I0320114
+Hobi: Menggambar
+Nama: Zafira
+Umur: 19
+Alamat: Solo
+NIM: I0320115
+Hobi: Belajar
